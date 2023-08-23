@@ -1,0 +1,64 @@
+[
+    {
+        "authName": "用户管理",
+        "id": "10",
+        "children": [
+            {
+                "authName": "用户列表",
+                "id": "24",
+                "order": "",
+                "path": "/userlist"
+            }
+        ],
+        "order": "1",
+        "path": "/user"
+    },
+    {
+        "authName": "权限管理",
+        "id": "20",
+        "children": [
+            {
+                "authName": "角色列表",
+                "id": "34",
+                "order": "",
+                "path": "/rolelist"
+            },
+            {
+                "authName": "权限列表",
+                "id": "66",
+                "order": "",
+                "path": "/authoritylist"
+            }
+        ],
+        "order": "1",
+        "path": "/authority"
+    },
+    {
+        "authName": "商品管理",
+        "id": "89",
+        "children": [
+            {
+                "authName": "商品列表",
+                "id": "76",
+                "order": "",
+                "path": "/commoditylist"
+            }
+        ],
+        "order": "1",
+        "path": "/commodity"
+    },
+    {
+        "authName": "订单管理",
+        "id": "44",
+        "children": [
+            {
+                "authName": "订单列表",
+                "id": "51",
+                "order": "",
+                "path": "/orderlist"
+            }
+        ],
+        "order": "1",
+        "path": "/order"
+    }
+]
